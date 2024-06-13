@@ -5,7 +5,7 @@ inputs:
   who-to-greet:
     description: 'Who to greet' 
     required: true 
-    default: 'world' 
+    default: 'world!!!' 
 outputs: 
   time:
     description: 'The time we said hello!'
