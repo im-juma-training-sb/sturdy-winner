@@ -20,4 +20,4 @@ jobs:
           who-to-greet: 'Ohio Department of Taxation'
 
       - name: Output time set in the container 
-        run: echo "The time the greeting was sent ${{ steps.hello-action.outputs.time }}
+        run: echo "The time the greeting was sent ${{ steps.hello-action.outputs.time }}"
